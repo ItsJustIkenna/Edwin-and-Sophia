@@ -30,7 +30,7 @@ jobs:
       uses: mr-smithers-excellent/docker-build-push@v5
       with:
         image: itsjustikenna/edwinandsophia
-        registry: ghcr.io/itsjustikenna/edwinandsophia
+        registry: docker.pkg.github.com/itsjustikenna/edwinandsophia
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
 
