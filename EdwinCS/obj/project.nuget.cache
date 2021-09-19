@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WSCBqn1DtJZtpYG7Jjk4HsEVa9Uc+a8uPzPKZ1WcRKhemsX+pnneCRb6lTnCBIxYz0yJGF6QwkJ4LLquwgTMvg==",
+  "dgSpecHash": "sDjMZ6iW7Wu6T5tbPXlQJqIFKeQYjMCxm22UFF4plFu/2DlZeltLxbt5TldjodWzbYxrsrpzoL5vDPKVOnTH8w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Owner\\Projects\\Edwin-and-Sophia\\EdwinCS\\EdwinCS.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,7 @@
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\5.0.0\\microsoft.extensions.options.configurationextensions.5.0.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\system.diagnostics.eventlog\\5.0.0\\system.diagnostics.eventlog.5.0.0.nupkg.sha512",
