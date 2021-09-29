@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: "eascluster-d698"
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: "eascluster-d698"
+  template:
+    metadata:
+      labels:
+        app: "eascluster-d698"
+    spec:
+      containers:
+        - name: "eascluster-d698"
+          image: "eascr.azurecr.io/eascluster"
+          ports:
+          - containerPort: 80
