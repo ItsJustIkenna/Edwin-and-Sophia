@@ -1,0 +1,36 @@
+name: .NET
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: 3.1.x
+    - name: Restore dependencies
+      run: dotnet restore
+    - name: Build
+      run: dotnet build EdwinAndSophia.sln --no-restore
+    - name: Test
+      run: dotnet test EdwinAndSophia.sln --no-build --verbosity normal
+    - name: Docker Build & Action
+      uses: mr-smithers-excellent/docker-build-push@v5
+      with:
+        image: itsjustikenna/edwinandsophia
+        registry: docker.io
+        username: ${{ secrets.DOCKER_USERNAME }}
+        password: ${{ secrets.DOCKER_PASSWORD }}
+
