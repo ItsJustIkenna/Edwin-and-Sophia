@@ -5,7 +5,7 @@ WORKDIR /app
 
 FROM mcr.microsoft.com/dotnet/sdk:3.1 AS build
 WORKDIR /src
-COPY ["EdwinCS/EdwinCS.csproj", "EdwinCS/"]
+COPY ["EdwinCS/EdwinCS.csproj", "EdwinCS/", "LoggingCS/LoggingCS.csproj", "LoggingCS/"]
 RUN dotnet restore "EdwinCS/EdwinCS.csproj"
 COPY . .
 WORKDIR "/src/EdwinCS"
