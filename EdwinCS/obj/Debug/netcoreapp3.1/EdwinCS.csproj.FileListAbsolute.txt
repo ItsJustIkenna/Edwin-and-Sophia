@@ -50,3 +50,5 @@ C:\Users\Owner\Projects\Edwin-and-Sophia\EdwinCS\obj\Debug\netcoreapp3.1\EdwinCS
 C:\Users\Owner\Projects\Edwin-and-Sophia\EdwinCS\obj\Debug\netcoreapp3.1\TradingEngine.Core.dll
 C:\Users\Owner\Projects\Edwin-and-Sophia\EdwinCS\obj\Debug\netcoreapp3.1\TradingEngine.Core.pdb
 C:\Users\Owner\Projects\Edwin-and-Sophia\EdwinCS\obj\Debug\netcoreapp3.1\EdwinCS.genruntimeconfig.cache
+C:\Users\Owner\Projects\Edwin-and-Sophia\EdwinCS\bin\Debug\netcoreapp3.1\TradingEngine.Logging.dll
+C:\Users\Owner\Projects\Edwin-and-Sophia\EdwinCS\bin\Debug\netcoreapp3.1\TradingEngine.Logging.pdb

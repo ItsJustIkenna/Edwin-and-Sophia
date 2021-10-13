@@ -1,6 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <ActiveDebugProfile>Docker</ActiveDebugProfile>
+    <ActiveDebugProfile>EdwinCS</ActiveDebugProfile>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <ItemGroup>
+    <DevSpacesDebugProfileUserSetting Include="Bridge to Kubernetes">
+      <ClusterSource>AKS</ClusterSource>
+      <AccountId>00000000-0000-0000-69f5-0080a64eac42.9188040d-6c67-4c5b-b112-36a304b66dad:107D38C8EA4DED548A0F4EE097AA83E8D0A4A0FAFDDCC2CACD854AAC42881A46</AccountId>
+      <TenantId>b3456e24-b5c2-49a5-bba0-39576c608c4c</TenantId>
+      <SubscriptionId>8e78d946-70b6-4fa7-b6f0-6b011f4eccf1</SubscriptionId>
+      <ResourceGroup>EdwinAndSophia</ResourceGroup>
+      <ClusterName>EAScluster</ClusterName>
+      <Namespace>easclusterb53a</Namespace>
+      <ServiceName>eascluster-d698</ServiceName>
+      <RoutingHeader>owner-0864</RoutingHeader>
+      <LaunchUrl>http://owner-0864.20.84.214.236.nip.io</LaunchUrl>
+      <LocalLaunchProfile>EdwinCS</LocalLaunchProfile>
+    </DevSpacesDebugProfileUserSetting>
+  </ItemGroup>
 </Project>
