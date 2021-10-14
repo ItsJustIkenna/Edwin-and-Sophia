@@ -1,0 +1,10 @@
+C:\Users\Owner\Projects\Edwin-and-Sophia\LoggingCS\bin\Debug\netcoreapp3.1\TradingEngine.Logging.deps.json
+C:\Users\Owner\Projects\Edwin-and-Sophia\LoggingCS\bin\Debug\netcoreapp3.1\TradingEngine.Logging.dll
+C:\Users\Owner\Projects\Edwin-and-Sophia\LoggingCS\bin\Debug\netcoreapp3.1\TradingEngine.Logging.pdb
+C:\Users\Owner\Projects\Edwin-and-Sophia\LoggingCS\obj\Debug\netcoreapp3.1\LoggingCS.csproj.AssemblyReference.cache
+C:\Users\Owner\Projects\Edwin-and-Sophia\LoggingCS\obj\Debug\netcoreapp3.1\LoggingCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Projects\Edwin-and-Sophia\LoggingCS\obj\Debug\netcoreapp3.1\LoggingCS.AssemblyInfoInputs.cache
+C:\Users\Owner\Projects\Edwin-and-Sophia\LoggingCS\obj\Debug\netcoreapp3.1\LoggingCS.AssemblyInfo.cs
+C:\Users\Owner\Projects\Edwin-and-Sophia\LoggingCS\obj\Debug\netcoreapp3.1\LoggingCS.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Projects\Edwin-and-Sophia\LoggingCS\obj\Debug\netcoreapp3.1\TradingEngine.Logging.dll
+C:\Users\Owner\Projects\Edwin-and-Sophia\LoggingCS\obj\Debug\netcoreapp3.1\TradingEngine.Logging.pdb
