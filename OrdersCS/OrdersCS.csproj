@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+	  <LangVersion>9</LangVersion>
+	  <RootNamespace>TradingEngine.Orders</RootNamespace>
+	  <AssemblyName>TradingEngine.Orders</AssemblyName>
+  </PropertyGroup>
+
+</Project>
