@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pUxkCjVYIhfp80ijIEO4C0n1gXoC3GUot9Wg/pZFCUVgfvBUWIj3dHSDDpCucijCRcj1VoTNsrRZg2chTNaTfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\Projects\\Edwin-and-Sophia\\SophiaCS\\SophiaCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.visualstudio.azure.kubernetes.tools.targets\\1.1.0\\microsoft.visualstudio.azure.kubernetes.tools.targets.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
