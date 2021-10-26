@@ -1,0 +1,10 @@
+C:\Users\Owner\Projects\Edwin-and-Sophia\InstrumentCS\bin\Debug\netcoreapp3.1\TradingEngine.Instrument.deps.json
+C:\Users\Owner\Projects\Edwin-and-Sophia\InstrumentCS\bin\Debug\netcoreapp3.1\TradingEngine.Instrument.dll
+C:\Users\Owner\Projects\Edwin-and-Sophia\InstrumentCS\bin\Debug\netcoreapp3.1\TradingEngine.Instrument.pdb
+C:\Users\Owner\Projects\Edwin-and-Sophia\InstrumentCS\obj\Debug\netcoreapp3.1\InstrumentCS.csproj.AssemblyReference.cache
+C:\Users\Owner\Projects\Edwin-and-Sophia\InstrumentCS\obj\Debug\netcoreapp3.1\InstrumentCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Projects\Edwin-and-Sophia\InstrumentCS\obj\Debug\netcoreapp3.1\InstrumentCS.AssemblyInfoInputs.cache
+C:\Users\Owner\Projects\Edwin-and-Sophia\InstrumentCS\obj\Debug\netcoreapp3.1\InstrumentCS.AssemblyInfo.cs
+C:\Users\Owner\Projects\Edwin-and-Sophia\InstrumentCS\obj\Debug\netcoreapp3.1\InstrumentCS.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Projects\Edwin-and-Sophia\InstrumentCS\obj\Debug\netcoreapp3.1\TradingEngine.Instrument.dll
+C:\Users\Owner\Projects\Edwin-and-Sophia\InstrumentCS\obj\Debug\netcoreapp3.1\TradingEngine.Instrument.pdb
